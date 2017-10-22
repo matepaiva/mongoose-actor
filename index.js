@@ -4,7 +4,7 @@ const _options = {
   errorMessage: ({ path }) => `Access denied to ${path}.`
 }
 
-export default function (schema, options = _options) {
+module.exports = function (schema, options = _options) {
   schema.methods.actor = function (actor) {
     this._actor = actor
     return this

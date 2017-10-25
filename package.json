@@ -15,6 +15,7 @@
     "mongodb",
     "actor"
   ],
+  "homepage": "http://github.com/matepaiva/mongoose-actor",
   "author": "http://github.com/matepaiva",
   "license": "ISC",
   "dependencies": {

@@ -15,7 +15,11 @@
     "mongodb",
     "actor"
   ],
-  "homepage": "http://github.com/matepaiva/mongoose-actor",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matepaiva/mongoose-actor.git"
+  },
+  "homepage": "https://github.com/matepaiva/mongoose-actor",
   "author": "http://github.com/matepaiva",
   "license": "ISC",
   "dependencies": {

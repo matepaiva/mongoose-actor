@@ -1,6 +1,6 @@
 {
   "name": "mongoose-actor",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A mongoose plugin to validate each path of a model using the value of the path and the actor who is triggering the action to the model. You can add validation according to the triggered method. Ideal to validate roles permission on path and method level.",
   "main": "index.js",
   "scripts": {

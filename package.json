@@ -22,7 +22,5 @@
   "homepage": "https://github.com/matepaiva/mongoose-actor",
   "author": "http://github.com/matepaiva",
   "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.17.4"
-  }
+  "dependencies": {}
 }
